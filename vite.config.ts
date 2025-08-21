@@ -9,11 +9,16 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 export default defineConfig({
+  base: '/fantasyra-frontend/',
   plugins: [
     react(),
     runtimeErrorOverlay(),
     glsl(), // Add GLSL shader support
   ],
+  build: {
+    outDir: 'dist',
+    emptyOutDir: true,
+  },
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "client", "src"),
