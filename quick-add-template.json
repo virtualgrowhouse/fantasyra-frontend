@@ -1,0 +1,45 @@
+{
+  "quick_add_template": {
+    "car_id": "brand_model_variant_001",
+    "name": "Car Name",
+    "category": "sports|supercar|luxury|muscle|classic|electric",
+    "brand": "Brand Name",
+    "year": "2024",
+    "images": {
+      "front": {
+        "url": "https://i.ibb.co/YOUR_ID/front.jpg",
+        "description": "Front view"
+      },
+      "rear": {
+        "url": "https://i.ibb.co/YOUR_ID/rear.jpg",
+        "description": "Rear view"
+      },
+      "side_left": {
+        "url": "https://i.ibb.co/YOUR_ID/side_left.jpg",
+        "description": "Left side view"
+      }
+    },
+    "model_3d": {
+      "file": null,
+      "description": "3D model file (GLB format) - add later"
+    },
+    "tags": ["tag1", "tag2", "tag3"],
+    "stats": {
+      "horsepower": 0,
+      "top_speed": "XXX mph",
+      "acceleration": "X.Xs 0-60mph"
+    },
+    "added_date": "2025-01-21",
+    "status": "active"
+  },
+  "imgbb_upload_checklist": [
+    "✓ Upload front view image to imgbb.com",
+    "✓ Upload rear view image to imgbb.com", 
+    "✓ Upload side view images to imgbb.com",
+    "✓ Upload interior shots (optional)",
+    "✓ Upload detail shots (optional)",
+    "✓ Copy all direct image URLs",
+    "✓ Fill in template above with URLs",
+    "✓ Add entry to main car-image-database.json"
+  ]
+}

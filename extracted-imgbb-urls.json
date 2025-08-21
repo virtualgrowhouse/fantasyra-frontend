@@ -1,0 +1,423 @@
+{
+  "metadata": {
+    "total_images": 57,
+    "extraction_date": "2025-01-21",
+    "source": "User provided imgbb URLs",
+    "description": "All extracted image URLs from user attachment, organized and ready for car database integration"
+  },
+  "extracted_urls": [
+    {
+      "id": 1,
+      "url": "https://i.ibb.co/KzRFzFds/916162b6-0ba3-4285-acbe-1504c7b72453.jpg",
+      "filename": "916162b6-0ba3-4285-acbe-1504c7b72453.jpg",
+      "category": "car_photo",
+      "status": "added_to_database"
+    },
+    {
+      "id": 2,
+      "url": "https://i.ibb.co/DPTjDFHB/7819c311-a863-45a6-a998-783c75220f4b.jpg",
+      "filename": "7819c311-a863-45a6-a998-783c75220f4b.jpg",
+      "category": "car_photo",
+      "status": "added_to_database"
+    },
+    {
+      "id": 3,
+      "url": "https://i.ibb.co/LdxBmB7F/7716f904-6abe-4bc2-905b-c3cf53e9f7f4.jpg",
+      "filename": "7716f904-6abe-4bc2-905b-c3cf53e9f7f4.jpg",
+      "category": "car_photo",
+      "status": "added_to_database"
+    },
+    {
+      "id": 4,
+      "url": "https://i.ibb.co/jBkwyxb/6187bbc3-4c5d-4818-9c98-6c23e3233f58.jpg",
+      "filename": "6187bbc3-4c5d-4818-9c98-6c23e3233f58.jpg",
+      "category": "car_photo",
+      "status": "added_to_database"
+    },
+    {
+      "id": 5,
+      "url": "https://i.ibb.co/Z6m1f7nF/31bf6ded-bef7-43db-94dd-7aff68ea4f0c.jpg",
+      "filename": "31bf6ded-bef7-43db-94dd-7aff68ea4f0c.jpg",
+      "category": "car_photo",
+      "status": "added_to_database"
+    },
+    {
+      "id": 6,
+      "url": "https://i.ibb.co/Q3qFdDtJ/27e6f99b-d51d-4de4-924d-c37f252efcf8.jpg",
+      "filename": "27e6f99b-d51d-4de4-924d-c37f252efcf8.jpg",
+      "category": "car_photo",
+      "status": "added_to_database"
+    },
+    {
+      "id": 7,
+      "url": "https://i.ibb.co/pBxQm6ZB/20ba60ca-708e-4232-8b91-8afc7be2e7e9.jpg",
+      "filename": "20ba60ca-708e-4232-8b91-8afc7be2e7e9.jpg",
+      "category": "car_photo",
+      "status": "added_to_database"
+    },
+    {
+      "id": 8,
+      "url": "https://i.ibb.co/S7Xkx7L9/igznpaibuau2miv8gldq-3.png",
+      "filename": "igznpaibuau2miv8gldq-3.png",
+      "category": "ui_design",
+      "status": "added_to_database"
+    },
+    {
+      "id": 9,
+      "url": "https://i.ibb.co/V06QQXpw/0turkz82kf78wb9zk9ya-2.png",
+      "filename": "0turkz82kf78wb9zk9ya-2.png",
+      "category": "ui_design",
+      "status": "added_to_database"
+    },
+    {
+      "id": 10,
+      "url": "https://i.ibb.co/G37k2zNt/ytsxb4ok638dfbvd6f0n-0.png",
+      "filename": "ytsxb4ok638dfbvd6f0n-0.png",
+      "category": "ui_design",
+      "status": "added_to_database"
+    },
+    {
+      "id": 11,
+      "url": "https://i.ibb.co/6JFLJBYF/01y5aock72xc9sohdkae-1.png",
+      "filename": "01y5aock72xc9sohdkae-1.png",
+      "category": "ui_design",
+      "status": "added_to_database"
+    },
+    {
+      "id": 12,
+      "url": "https://i.ibb.co/hJM7scR6/yh8qc9ml3z5d4ltqc5gb-2.png",
+      "filename": "yh8qc9ml3z5d4ltqc5gb-2.png",
+      "category": "ui_design",
+      "status": "added_to_database"
+    },
+    {
+      "id": 13,
+      "url": "https://i.ibb.co/tTH57RM3/yh2pkfpjqz670dl5kzpc-0.png",
+      "filename": "yh2pkfpjqz670dl5kzpc-0.png",
+      "category": "car_collection",
+      "status": "added_to_database"
+    },
+    {
+      "id": 14,
+      "url": "https://i.ibb.co/ch7TPk8v/ydhzdsw7rov4l1n90gd0-1.png",
+      "filename": "ydhzdsw7rov4l1n90gd0-1.png",
+      "category": "car_collection",
+      "status": "added_to_database"
+    },
+    {
+      "id": 15,
+      "url": "https://i.ibb.co/Wpv11XZ7/y943vxvt2pvio5sitq82-0.png",
+      "filename": "y943vxvt2pvio5sitq82-0.png",
+      "category": "car_collection",
+      "status": "added_to_database"
+    },
+    {
+      "id": 16,
+      "url": "https://i.ibb.co/My468PTt/y58f5hz2z1f4kvc1llu1-1.png",
+      "filename": "y58f5hz2z1f4kvc1llu1-1.png",
+      "category": "car_collection",
+      "status": "added_to_database"
+    },
+    {
+      "id": 17,
+      "url": "https://i.ibb.co/p6dWcCKw/xoee7sl1zqokmaihm6q3-0.png",
+      "filename": "xoee7sl1zqokmaihm6q3-0.png",
+      "category": "car_collection",
+      "status": "added_to_database"
+    },
+    {
+      "id": 18,
+      "url": "https://i.ibb.co/Y4dLdsnh/xi7ism3vxip25uzt1f0u-3.png",
+      "filename": "xi7ism3vxip25uzt1f0u-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 19,
+      "url": "https://i.ibb.co/5XRvKj4g/x7piivdnznm6ancg36kn-1.png",
+      "filename": "x7piivdnznm6ancg36kn-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "url": "https://i.ibb.co/jkvpYsXB/wg2pjmp4lfki9bfy55uk-3.png",
+      "filename": "wg2pjmp4lfki9bfy55uk-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 21,
+      "url": "https://i.ibb.co/cKQ0rj3k/wa25f70wvdtfanzcbc82-1.png",
+      "filename": "wa25f70wvdtfanzcbc82-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 22,
+      "url": "https://i.ibb.co/kVvwdHdB/v9s2azcgk2xingkuv8tf-3.png",
+      "filename": "v9s2azcgk2xingkuv8tf-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 23,
+      "url": "https://i.ibb.co/8gw4Bwcz/v37oii3kgyrr0lhyywmw-1.png",
+      "filename": "v37oii3kgyrr0lhyywmw-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 24,
+      "url": "https://i.ibb.co/bRJK373W/uc3g14i3p5sndiacz5y2-0.png",
+      "filename": "uc3g14i3p5sndiacz5y2-0.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 25,
+      "url": "https://i.ibb.co/CKYxdCvr/v0ndzog33egppyp5kuk8-3.png",
+      "filename": "v0ndzog33egppyp5kuk8-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 26,
+      "url": "https://i.ibb.co/sJD8WxB0/u16wswdnmnffi5ywxa8w-3.png",
+      "filename": "u16wswdnmnffi5ywxa8w-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 27,
+      "url": "https://i.ibb.co/SwxZFYDB/t9lgn5lyj9gs1bm93o8t-0.png",
+      "filename": "t9lgn5lyj9gs1bm93o8t-0.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 28,
+      "url": "https://i.ibb.co/vxDKvpKb/sq6zrfjy61la0jdkg6b8-0.png",
+      "filename": "sq6zrfjy61la0jdkg6b8-0.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 29,
+      "url": "https://i.ibb.co/MWbRVgG/sopertgt38mdtlcgq5k1-1.png",
+      "filename": "sopertgt38mdtlcgq5k1-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 30,
+      "url": "https://i.ibb.co/Y7JBs0mW/slk79mq7unfgt2orfetq-1.png",
+      "filename": "slk79mq7unfgt2orfetq-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 31,
+      "url": "https://i.ibb.co/Xf5S5fVP/s6rzhl2khl4tv5htik0v-2.png",
+      "filename": "s6rzhl2khl4tv5htik0v-2.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 32,
+      "url": "https://i.ibb.co/prvqVqBW/sih813ta1t96f3hodetm-2.png",
+      "filename": "sih813ta1t96f3hodetm-2.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 33,
+      "url": "https://i.ibb.co/Qj8YnkJr/rpau4vxwor9xus15e2x0-2.png",
+      "filename": "rpau4vxwor9xus15e2x0-2.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 34,
+      "url": "https://i.ibb.co/CppqcD9m/qwbefguvq7uvqijj2pe2-3.png",
+      "filename": "qwbefguvq7uvqijj2pe2-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 35,
+      "url": "https://i.ibb.co/pGtDMsD/pw4e0hvo4mprcl0zl7tf-0-2.png",
+      "filename": "pw4e0hvo4mprcl0zl7tf-0-2.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 36,
+      "url": "https://i.ibb.co/4gRtHKBf/pw4e0hvo4mprcl0zl7tf-0-1.png",
+      "filename": "pw4e0hvo4mprcl0zl7tf-0-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 37,
+      "url": "https://i.ibb.co/pBJjkvtd/o4hvtzjzt28909jwe9bh-2.png",
+      "filename": "o4hvtzjzt28909jwe9bh-2.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 38,
+      "url": "https://i.ibb.co/67Y2tjyf/o897irij4pozxktyadao-0.png",
+      "filename": "o897irij4pozxktyadao-0.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 39,
+      "url": "https://i.ibb.co/nMgNM7QJ/nrhtvkfulwnawl43zq62-2.png",
+      "filename": "nrhtvkfulwnawl43zq62-2.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 40,
+      "url": "https://i.ibb.co/vg1FWYF/myprofle-profileimage-dob-location-username-fantasyrally-dmv-rated-m-17-s4qkutch71da3e0ne4mt-0.png",
+      "filename": "profile-design-1.png",
+      "category": "ui_profile",
+      "status": "pending"
+    },
+    {
+      "id": 41,
+      "url": "https://i.ibb.co/5X46WBzB/myprofle-profileimage-dob-location-username-fantasyrally-dmv-rated-m-17-l30fxhk6j4bzj7yrl760-1.png",
+      "filename": "profile-design-2.png",
+      "category": "ui_profile",
+      "status": "pending"
+    },
+    {
+      "id": 42,
+      "url": "https://i.ibb.co/ZRykNCjt/myprofle-profileimage-dob-location-username-fantasyrally-dmv-rated-m-17-iizqkmzbe2yupl3qe1dq-0.png",
+      "filename": "profile-design-3.png",
+      "category": "ui_profile",
+      "status": "pending"
+    },
+    {
+      "id": 43,
+      "url": "https://i.ibb.co/Wp55Zp0L/mudgnvg6wj17o3xr6zm4-1.png",
+      "filename": "mudgnvg6wj17o3xr6zm4-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 44,
+      "url": "https://i.ibb.co/FCY9tcG/mm87de0s7fb2yl60w88g-2.png",
+      "filename": "mm87de0s7fb2yl60w88g-2.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 45,
+      "url": "https://i.ibb.co/3y3mY5kP/lyqecknpyf5ykmy5kcg1-3.png",
+      "filename": "lyqecknpyf5ykmy5kcg1-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 46,
+      "url": "https://i.ibb.co/tPNgH3Bv/kcffonrxlhzqzdqokqe5-3.png",
+      "filename": "kcffonrxlhzqzdqokqe5-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 47,
+      "url": "https://i.ibb.co/r2PDwV5m/l7h7kqf3g2hh3xpg34zr-3.png",
+      "filename": "l7h7kqf3g2hh3xpg34zr-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 48,
+      "url": "https://i.ibb.co/tpYbL7P0/k00f4uo33jdkuhwskxbn-3.png",
+      "filename": "k00f4uo33jdkuhwskxbn-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 49,
+      "url": "https://i.ibb.co/dd72KjY/joigll2sxhy3b3ktefa4-1.png",
+      "filename": "joigll2sxhy3b3ktefa4-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 50,
+      "url": "https://i.ibb.co/7dZpMLNQ/iz1osot1jjnt3oulsj0q-0.png",
+      "filename": "iz1osot1jjnt3oulsj0q-0.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 51,
+      "url": "https://i.ibb.co/q3hbqXdP/hqj9fkwqsr16rhl0hedm-2.png",
+      "filename": "hqj9fkwqsr16rhl0hedm-2.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 52,
+      "url": "https://i.ibb.co/tTK3m6RZ/hn4u48wzppe2ezaeg57g-0.png",
+      "filename": "hn4u48wzppe2ezaeg57g-0.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 53,
+      "url": "https://i.ibb.co/d08LJTkb/gthnfzekv6cutgojnk4c-1.png",
+      "filename": "gthnfzekv6cutgojnk4c-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 54,
+      "url": "https://i.ibb.co/G3smGhXC/gi8st5l1sgy3dwugwxz5-1.png",
+      "filename": "gi8st5l1sgy3dwugwxz5-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 55,
+      "url": "https://i.ibb.co/p6CZVPQf/gfnilsiik2gi699s2r5s-1.png",
+      "filename": "gfnilsiik2gi699s2r5s-1.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 56,
+      "url": "https://i.ibb.co/NbKF3Jm/g6pw1qtjzfjunwg8n2h4-0.png",
+      "filename": "g6pw1qtjzfjunwg8n2h4-0.png",
+      "category": "additional_cars",
+      "status": "pending"
+    },
+    {
+      "id": 57,
+      "url": "https://i.ibb.co/PsQX9btV/fld9hjt75tw3rb34gqw2-3.png",
+      "filename": "fld9hjt75tw3rb34gqw2-3.png",
+      "category": "additional_cars",
+      "status": "pending"
+    }
+  ],
+  "categorized_summary": {
+    "car_photos": 7,
+    "ui_designs": 5,
+    "car_collections": 5,
+    "additional_cars": 37,
+    "ui_profiles": 3
+  },
+  "next_steps": [
+    "Organize remaining 37 additional car images into individual car entries",
+    "Add specific car names, brands, and stats for each vehicle",
+    "Create folders for each car with multiple images when available",
+    "Generate or link 3D models for each car entry",
+    "Integrate profile UI designs into user interface system"
+  ]
+}

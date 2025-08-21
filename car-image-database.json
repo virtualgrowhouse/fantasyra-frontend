@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-01-21",
+    "description": "Car image database with imgbb URLs and organization system",
+    "structure": "1 car = 1 folder with multiple images and optional 3D model"
+  },
+  "cars": {
+    "fantasy_car_001": {
+      "name": "Blue Sports Coupe",
+      "category": "sports",
+      "brand": "Fantasy Rally",
+      "year": "2024",
+      "images": {
+        "front": {
+          "url": "https://i.ibb.co/KzRFzFds/916162b6-0ba3-4285-acbe-1504c7b72453.jpg",
+          "description": "Front three-quarter view"
+        },
+        "side_profile": {
+          "url": "https://i.ibb.co/DPTjDFHB/7819c311-a863-45a6-a998-783c75220f4b.jpg",
+          "description": "Side profile view"
+        }
+      },
+      "model_3d": {
+        "file": null,
+        "description": "3D model file (GLB format)"
+      },
+      "tags": ["sports", "coupe", "blue", "sleek"],
+      "stats": {
+        "horsepower": 450,
+        "top_speed": "180 mph",
+        "acceleration": "3.8s 0-60mph"
+      },
+      "added_date": "2025-01-21",
+      "status": "active"
+    },
+    "fantasy_car_002": {
+      "name": "Red Performance Car",
+      "category": "sports",
+      "brand": "Fantasy Rally",
+      "year": "2024",
+      "images": {
+        "action_1": {
+          "url": "https://i.ibb.co/LdxBmB7F/7716f904-6abe-4bc2-905b-c3cf53e9f7f4.jpg",
+          "description": "Dynamic action shot"
+        },
+        "side_view": {
+          "url": "https://i.ibb.co/jBkwyxb/6187bbc3-4c5d-4818-9c98-6c23e3233f58.jpg",
+          "description": "Side view perspective"
+        }
+      },
+      "model_3d": {
+        "file": null,
+        "description": "3D model file (GLB format)"
+      },
+      "tags": ["performance", "red", "aggressive", "aerodynamic"],
+      "stats": {
+        "horsepower": 520,
+        "top_speed": "195 mph",
+        "acceleration": "3.4s 0-60mph"
+      },
+      "added_date": "2025-01-21",
+      "status": "active"
+    },
+    "fantasy_car_003": {
+      "name": "Green Track Monster",
+      "category": "track",
+      "brand": "Fantasy Rally",
+      "year": "2024",
+      "images": {
+        "front_angle": {
+          "url": "https://i.ibb.co/Z6m1f7nF/31bf6ded-bef7-43db-94dd-7aff68ea4f0c.jpg",
+          "description": "Front angled view"
+        },
+        "track_shot": {
+          "url": "https://i.ibb.co/Q3qFdDtJ/27e6f99b-d51d-4de4-924d-c37f252efcf8.jpg",
+          "description": "Track focused shot"
+        }
+      },
+      "model_3d": {
+        "file": null,
+        "description": "3D model file (GLB format)"
+      },
+      "tags": ["track", "green", "monster", "high-performance"],
+      "stats": {
+        "horsepower": 680,
+        "top_speed": "210 mph",
+        "acceleration": "2.9s 0-60mph"
+      },
+      "added_date": "2025-01-21",
+      "status": "active"
+    },
+    "fantasy_car_004": {
+      "name": "Orange Speed Demon",
+      "category": "hypercar",
+      "brand": "Fantasy Rally",
+      "year": "2024",
+      "images": {
+        "showcase_1": {
+          "url": "https://i.ibb.co/pBxQm6ZB/20ba60ca-708e-4232-8b91-8afc7be2e7e9.jpg",
+          "description": "Showcase presentation"
+        }
+      },
+      "model_3d": {
+        "file": null,
+        "description": "3D model file (GLB format)"
+      },
+      "tags": ["hypercar", "orange", "speed", "demon"],
+      "stats": {
+        "horsepower": 800,
+        "top_speed": "230 mph",
+        "acceleration": "2.5s 0-60mph"
+      },
+      "added_date": "2025-01-21",
+      "status": "active"
+    },
+    "ui_design_001": {
+      "name": "Fantasy Rally UI Designs",
+      "category": "interface",
+      "brand": "Fantasy Rally",
+      "year": "2024",
+      "images": {
+        "ui_concept_1": {
+          "url": "https://i.ibb.co/S7Xkx7L9/igznpaibuau2miv8gldq-3.png",
+          "description": "UI design concept 1"
+        },
+        "ui_concept_2": {
+          "url": "https://i.ibb.co/V06QQXpw/0turkz82kf78wb9zk9ya-2.png",
+          "description": "UI design concept 2"
+        },
+        "ui_concept_3": {
+          "url": "https://i.ibb.co/G37k2zNt/ytsxb4ok638dfbvd6f0n-0.png",
+          "description": "UI design concept 3"
+        },
+        "ui_concept_4": {
+          "url": "https://i.ibb.co/6JFLJBYF/01y5aock72xc9sohdkae-1.png",
+          "description": "UI design concept 4"
+        },
+        "ui_concept_5": {
+          "url": "https://i.ibb.co/hJM7scR6/yh8qc9ml3z5d4ltqc5gb-2.png",
+          "description": "UI design concept 5"
+        }
+      },
+      "model_3d": {
+        "file": null,
+        "description": "Interface designs - no 3D model"
+      },
+      "tags": ["ui", "interface", "design", "concept"],
+      "stats": {
+        "horsepower": 0,
+        "top_speed": "N/A",
+        "acceleration": "N/A"
+      },
+      "added_date": "2025-01-21",
+      "status": "reference"
+    },
+    "car_collection_pack_1": {
+      "name": "Multi-Car Collection Pack 1",
+      "category": "collection",
+      "brand": "Fantasy Rally",
+      "year": "2024",
+      "images": {
+        "gallery_1": {
+          "url": "https://i.ibb.co/tTH57RM3/yh2pkfpjqz670dl5kzpc-0.png",
+          "description": "Car collection gallery 1"
+        },
+        "gallery_2": {
+          "url": "https://i.ibb.co/ch7TPk8v/ydhzdsw7rov4l1n90gd0-1.png",
+          "description": "Car collection gallery 2"
+        },
+        "gallery_3": {
+          "url": "https://i.ibb.co/Wpv11XZ7/y943vxvt2pvio5sitq82-0.png",
+          "description": "Car collection gallery 3"
+        },
+        "gallery_4": {
+          "url": "https://i.ibb.co/My468PTt/y58f5hz2z1f4kvc1llu1-1.png",
+          "description": "Car collection gallery 4"
+        },
+        "gallery_5": {
+          "url": "https://i.ibb.co/p6dWcCKw/xoee7sl1zqokmaihm6q3-0.png",
+          "description": "Car collection gallery 5"
+        }
+      },
+      "model_3d": {
+        "file": null,
+        "description": "Collection pack - multiple 3D models"
+      },
+      "tags": ["collection", "pack", "variety", "showcase"],
+      "stats": {
+        "horsepower": 0,
+        "top_speed": "Varies",
+        "acceleration": "Varies"
+      },
+      "added_date": "2025-01-21",
+      "status": "collection"
+    }
+  },
+  "image_categories": {
+    "standard_views": [
+      "front",
+      "rear", 
+      "side_left",
+      "side_right",
+      "three_quarter_front",
+      "three_quarter_rear"
+    ],
+    "interior_views": [
+      "interior",
+      "dashboard",
+      "seats",
+      "steering_wheel"
+    ],
+    "detail_shots": [
+      "detail_wheels",
+      "detail_engine",
+      "detail_headlights",
+      "detail_taillights",
+      "detail_grille",
+      "detail_badges"
+    ],
+    "action_shots": [
+      "action_track",
+      "action_street",
+      "action_drift",
+      "action_launch"
+    ]
+  },
+  "folder_structure": {
+    "description": "Recommended folder organization",
+    "pattern": "cars/{car_id}/{category}/",
+    "example": {
+      "cars/": {
+        "mclaren_p1_001/": {
+          "images/": {
+            "standard/": ["front.jpg", "rear.jpg", "side_left.jpg", "side_right.jpg"],
+            "interior/": ["dashboard.jpg", "seats.jpg"],
+            "details/": ["wheels.jpg", "engine.jpg"],
+            "action/": ["track.jpg"]
+          },
+          "models/": ["car_model.glb"],
+          "metadata.json": "Car-specific metadata"
+        }
+      }
+    }
+  },
+  "usage_instructions": {
+    "adding_new_car": [
+      "1. Create unique car ID (e.g., brand_model_variant_number)",
+      "2. Upload images to imgbb and get URLs",
+      "3. Add car entry to this JSON with all image URLs",
+      "4. Organize images by category (standard, interior, details, action)",
+      "5. Optional: Add 3D model file path when available"
+    ],
+    "image_url_format": "https://i.ibb.co/[imgbb_id]/[filename].[ext]",
+    "supported_formats": ["jpg", "jpeg", "png", "webp"],
+    "recommended_resolution": "1920x1080 or higher for main views"
+  }
+}
